@@ -31,7 +31,9 @@
       <div class="mega center">Roll with us</div>
       <div class="swrapper">
         <div class="social">
-          <img :src="`${publicPath}assets/img/twitter-logo.svg`">
+          <a href="https://twitter.com/thediptoken">
+            <img :src="`${publicPath}assets/img/twitter-logo.svg`">
+          </a>
         </div>
         <div class="social">
           <img :src="`${publicPath}assets/img/web-icon.svg`">
