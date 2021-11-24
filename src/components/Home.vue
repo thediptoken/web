@@ -3,7 +3,7 @@
     <div class="wrapper first">
       <div class="mega">It's time to buy the dip.</div>
       <div class="subtitle">A wise man once said, <strong>buy the dip.</strong> We took that literally.</div>
-      <div class="button">Buy the $DIP now</div>
+      <div class="button">Buy the $DIP - Coming soon.</div>
     </div>
     <div class="wrapper">
       <div class="mega">What is The Dip?</div>
@@ -25,7 +25,24 @@
       <div class="mega">How we roll</div>
       <div class="title">Step 1. Stonks are dipping?</div>
       <div class="subtitle">You know what to do.</div>
-      <div class="button white">Buy the $DIP now</div>
+      <div class="button white">Coming Soon</div>
+    </div>
+    <div class="wrapper">
+      <div class="mega">Tokenomics</div>
+      <div class="title">50% Burnt</div>
+      <div class="subtitle no-top">Because why not?</div>
+      <div class="title top">40% Liquidity</div>
+      <div class="subtitle no-top">We've put it in the LPs all over the universe. Literally.</div>
+      <div class="title top">0% Marketing</div>
+      <div class="subtitle no-top">Why market when JPMorgan and Goldman Sachs does it for us? (see below)</div>
+      <div class="title top">5% Future Development</div>
+      <div class="subtitle no-top">Rocket fuel is pricey.</div>
+      <div class="title top">5% Team</div>
+      <div class="subtitle no-top">Doing this full-time is hard.</div>
+    </div>
+    <div class="wrapper">
+      <div class="mega">Testimonials</div>
+      <img :src="`${publicPath}assets/img/jpm.png`" style="width:100%;" />
     </div>
     <div class="wrapper first center">
       <div class="mega center">Roll with us</div>
@@ -127,7 +144,7 @@ div.wrapper {
 }
 .button {
   background-color:#A1051D;
-  padding:10px 20px;
+  padding:10px 35px;
   border-radius:50px;
   margin:30px 0;
   display:inline-block;
@@ -153,5 +170,12 @@ div.wrapper {
 div.skill-category .writeup i {
   font-size: 0.8rem;
   color: #777;
+}
+
+.top {
+  margin-top:20px;
+}
+.no-top {
+  margin-top:0px;
 }
 </style>
