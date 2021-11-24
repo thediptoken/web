@@ -1,0 +1,149 @@
+<template>
+  <div class="home">
+    <div class="wrapper first">
+      <div class="mega">It's time to buy the dip.</div>
+      <div class="subtitle">A wise man once said, <strong>buy the dip.</strong> We took that literally.</div>
+      <div class="button">Buy the $DIP now</div>
+    </div>
+    <div class="wrapper">
+      <div class="mega">What is The Dip?</div>
+      <div class="title">(i mean, have you not heard of it?)</div>
+      <div class="sidebyside">
+        <div class="text">
+          <div class="subtitle">We are the most talked about famous token anywhere: on r/wallstreetbets, twitter and even Warren Buffet. If you have ever heard your friends say “buy The Dip”, that's us!
+            <br/>
+            <br/>
+            If you are in this together with us, there can never be a bad day for you. If markets are bad, people will all buy The Dip and we will go to the moon! If markets are good, then so are we!
+          </div>
+        </div>
+        <div class="image">
+          <img src="../assets/img/buffett.jpg" style="width:100%;" />
+        </div>
+      </div>
+    </div>
+    <div class="wrapper red center">
+      <div class="mega">How we roll</div>
+      <div class="title">Step 1. Stonks are dipping?</div>
+      <div class="subtitle">You know what to do.</div>
+      <div class="button white">Buy the $DIP now</div>
+    </div>
+    <div class="wrapper first center">
+      <div class="mega center">Roll with us</div>
+      <div class="swrapper">
+        <div class="social">
+          <img src="../assets/img/twitter-logo.svg">
+        </div>
+        <div class="social">
+          <img src="../assets/img/web-icon.svg">
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script src="https://kit.fontawesome.com/fa7221f93f.js" crossorigin="anonymous"></script>
+<script>
+export default {
+  name: 'Home',
+  props: {
+    msg: String
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+.sidebyside {
+  display:flex;
+}
+.text {
+  width:60%;
+}
+.image {
+  padding:0 20px;
+  width:40%;
+}
+.swrapper {
+  width:100%;
+  align-items:center;
+  display:flex;
+  justify-content:center;
+}
+.social {
+  background-color:#A1051D;
+  padding:10px;
+  border-radius:25px;
+  height:20px;
+  margin:10px;
+}
+div.home {
+  font-family:'Poppins';
+  height: auto;
+  background-color:#000;
+  display:flex;
+  flex-direction:column;
+  align-items: center;
+  padding: 100px 0;
+}
+div.wrapper {
+  max-width: 800px;
+  width:100%;
+  background-color: #FDFDFD;
+  border-radius: 20px;
+  padding: 60px;
+  margin: 40px 0;
+}
+.wrapper.first {
+  background-color:transparent;
+  color:#fff;
+}
+.wrapper.red {
+  background-color:#A1051D;
+  color:#fff;
+}
+.center {
+
+  text-align:center;
+}
+.mega {
+  font-family:Abril;
+    font-weight:bold;
+    font-size:48px;
+    line-height:48px;
+    padding-bottom:36px;
+}
+.title {
+  font-weight:bold;
+
+  font-size:20px;
+}
+.button {
+  background-color:#A1051D;
+  padding:10px 20px;
+  border-radius:50px;
+  margin:30px 0;
+  display:inline-block;
+  font-weight:bold;
+}
+.button.white {
+  background:#fff;
+
+  color:#A1051D;
+  padding:10px 20px;
+  border-radius:50px;
+  margin:30px 0;
+  display:inline-block;
+
+}
+.subtitle {
+  position:relative;
+  font-size:16px;
+  line-height:32px;
+  margin-top:40px;
+}
+
+div.skill-category .writeup i {
+  font-size: 0.8rem;
+  color: #777;
+}
+</style>
