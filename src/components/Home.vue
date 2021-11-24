@@ -10,10 +10,10 @@
       <div class="title">(i mean, have you not heard of it??)</div>
       <div class="sidebyside">
         <div class="text">
-          <div class="subtitle">We are the most talked about famous token anywhere: on r/wallstreetbets, twitter and even Warren Buffet. If you have ever heard your friends say “buy The Dip”, that's us!
+          <div class="subtitle">We are the most talked about token everywhere. r/wallstreetbets, Twitter and even Warren Buffet talks about BUYING THE DIP! If you have ever heard of the saying “buy The Dip”, well look no further! You've come to the right place.
             <br/>
             <br/>
-            If you are in this together with us, there can never be a bad day for you. If markets are bad, people will all buy The Dip and we will go to the moon! If markets are good, then so are we!
+            If you are in this together with us, there can never be a bad day for you. If markets are bad, just buy The Dip and fuel our rocket. Once markets become good again, then off we go!
           </div>
         </div>
         <div class="image">
