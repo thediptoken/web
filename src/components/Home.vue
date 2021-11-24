@@ -36,7 +36,9 @@
           </a>
         </div>
         <div class="social">
-          <img :src="`${publicPath}assets/img/web-icon.svg`">
+          <a href="https://bscscan.com/token/0x06b4a9f875e8bb5fa3265e91a4c6c3c49761740e">
+            <img :src="`${publicPath}assets/img/web-icon.svg`">
+          </a>
         </div>
       </div>
     </div>
