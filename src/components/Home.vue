@@ -17,7 +17,7 @@
           </div>
         </div>
         <div class="image">
-          <img :src="`${publicPath}img/buffett.jpg`" style="width:100%;" />
+          <img :src="`${publicPath}assets/img/buffett.jpg`" style="width:100%;" />
         </div>
       </div>
     </div>
@@ -31,10 +31,10 @@
       <div class="mega center">Roll with us</div>
       <div class="swrapper">
         <div class="social">
-          <img :src="`${publicPath}img/twitter-logo.svg`">
+          <img :src="`${publicPath}assets/img/twitter-logo.svg`">
         </div>
         <div class="social">
-          <img :src="`${publicPath}img/web-icon.svg`">
+          <img :src="`${publicPath}assets/img/web-icon.svg`">
         </div>
       </div>
     </div>
