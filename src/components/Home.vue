@@ -7,7 +7,7 @@
     </div>
     <div class="wrapper">
       <div class="mega">What is The Dip?</div>
-      <div class="title">(i mean, have you not heard of it?)</div>
+      <div class="title">(i mean, have you not heard of it??)</div>
       <div class="sidebyside">
         <div class="text">
           <div class="subtitle">We are the most talked about famous token anywhere: on r/wallstreetbets, twitter and even Warren Buffet. If you have ever heard your friends say “buy The Dip”, that's us!
