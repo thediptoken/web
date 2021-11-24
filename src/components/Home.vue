@@ -47,7 +47,11 @@ export default {
   name: 'Home',
   props: {
     msg: String
+  },data () {
+  return {
+    publicPath: process.env.BASE_URL
   }
+}
 }
 </script>
 
