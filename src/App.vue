@@ -19,19 +19,19 @@ export default {
 @font-face {
   font-family: Poppins;
   font-weight: normal;
-  src: url(assets/fonts/Poppins-Regular.ttf);
+  src: url(../public/assets/fonts/Poppins-Regular.ttf);
 }
 
 @font-face {
   font-family: Poppins;
   font-weight: bold;
-  src: url(assets/fonts/Poppins-Bold.ttf);
+  src: url(../public/assets/fonts/Poppins-Bold.ttf);
 }
 
 @font-face {
   font-family: Abril;
   font-weight: bold;
-  src: url(assets/fonts/AbrilFatface-Regular.ttf);
+  src: url(../public/assets/fonts/AbrilFatface-Regular.ttf);
 }
 
 #app {
