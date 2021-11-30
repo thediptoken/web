@@ -23,8 +23,14 @@
     </div>
     <div class="wrapper red center">
       <div class="mega">How we roll</div>
-      <div class="title">Step 1. Stonks are dipping?</div>
-      <div class="subtitle">You know what to do.</div>
+      <div class="title">Step 1. Stonks are dipping!</div>
+      <div class="subtitle no-top" >Panic.</div>
+      <div class="title top-big">Step 2. Calm down.</div>
+      <div class="subtitle no-top" >Realize you're wise.</div>
+      <div class="title top-big">Step 3. Buy The Dip.</div>
+      <div class="subtitle no-top" >And be smug about it.</div>
+      <div class="title top-big">Step 4. Stonks are rising!</div>
+      <div class="subtitle no-top" >Bathe in eternal glory.</div>
       <div class="button white">Coming Soon</div>
     </div>
     <div class="wrapper">
@@ -174,6 +180,9 @@ div.skill-category .writeup i {
 
 .top {
   margin-top:20px;
+}
+.top-big {
+  margin-top:40px;
 }
 .no-top {
   margin-top:0px;
