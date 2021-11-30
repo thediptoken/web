@@ -48,7 +48,7 @@
     </div>
     <div class="wrapper">
       <div class="mega">Testimonials</div>
-      <img :src="`${publicPath}assets/img/jpm.png`" style="width:100%;" />
+      <img :src="`${publicPath}assets/img/omgwtfbbq.png`" style="width:100%;" />
     </div>
     <div class="wrapper first center">
       <div class="mega center">Roll with us</div>
