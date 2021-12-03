@@ -3,17 +3,21 @@
     <div class="wrapper first">
       <div class="mega">It's time to buy the dip.</div>
       <div class="subtitle">A wise man once said, <strong>buy the dip.</strong> We took that literally.</div>
-      <div class="button">Buy the $DIP - Coming soon.</div>
+      <a href="https://pancakeswap.finance/swap?outputCurrency=0x06b4a9f875e8bb5fa3265e91a4c6c3c49761740e&inputCurrency=" target="_blank"><div class="button">Buy the $DIP</div></a>
     </div>
     <div class="wrapper">
       <div class="mega">What is The Dip?</div>
       <div class="title">(i mean, have you not heard of it??)</div>
       <div class="sidebyside">
         <div class="text">
-          <div class="subtitle">We are the most talked about token everywhere. r/wallstreetbets, Twitter and even Warren Buffet talks about BUYING THE DIP! If you have ever heard of the saying “buy The Dip”, well look no further! You've come to the right place.
+          <div class="subtitle">The most talked about; the hottest topic in town. Our friends over at r/wallstreetbets and Twitter talk about BUYING THE DIP all the time! Heck, even Warren Buffet has joined in on the fun. And if you're wondering what “buy The Dip” means, well look no further! You've come to the right place.
             <br/>
             <br/>
-            If you are in this together with us, there can never be a bad day for you. If markets are bad, just buy The Dip and fuel our rocket. Once markets become good again, then off we go!
+            A day in the life of a $DIP hodler is never bad, and I mean never. If markets are bad, then just buy The Dip and contribute rocket fuel. When markets become good again, then buckle up, because we're going on a trip to Europa <sub>[1]</sub>
+
+            <br/>
+            <br/>
+            <sub>[1] Europa is one of Jupiter's moons, because aiming for Earth's moon isn't enough for us.</sub>
           </div>
         </div>
         <div class="image">
@@ -22,7 +26,7 @@
       </div>
     </div>
     <div class="wrapper red center">
-      <div class="mega">How we roll</div>
+      <div class="mega">How to roll with us</div>
       <div class="title">Step 1. Stonks are dipping!</div>
       <div class="subtitle no-top" >Panic.</div>
       <div class="title top-big">Step 2. Calm down.</div>
@@ -30,18 +34,24 @@
       <div class="title top-big">Step 3. Buy The Dip.</div>
       <div class="subtitle no-top" >And be smug about it.</div>
       <div class="title top-big">Step 4. Stonks are rising!</div>
-      <div class="subtitle no-top" >Bathe in eternal glory.</div>
-      <div class="button white">Coming Soon</div>
+      <div class="subtitle no-top" >Bathe in eternal glory. It's that simple.</div>
+      <a href="https://pancakeswap.finance/swap?outputCurrency=0x06b4a9f875e8bb5fa3265e91a4c6c3c49761740e&inputCurrency=" target="_blank"><div class="button white">Buy the $DIP</div></a>
+    </div>
+    <div class="wrapper">
+      <div class="mega">How else can I get the $DIP??</div>
+      <div class="title">That's a lovely question, I'm glad you asked. Everyone wants the $DIP, there's only so much to go around.</div>
+      <div class="subtitle no-top">But fret not! Join our telegram channel now and get access to airdrops, events and much much more!</div>
+      <a href="https://t.me/buythedip_official" target="_blank"><div class="button" style="color:white">Find us on Telegram</div></a>
     </div>
     <div class="wrapper">
       <div class="mega">Tokenomics</div>
-      <div class="title">50% Burnt</div>
+      <div class="title">60% Burnt</div>
       <div class="subtitle no-top">Because why not?</div>
-      <div class="title top">40% Liquidity</div>
+      <div class="title top">30% Liquidity Pools</div>
       <div class="subtitle no-top">We've put it in the LPs all over the universe. Literally.</div>
       <div class="title top">0% Marketing</div>
       <div class="subtitle no-top">Why market when JPMorgan and Goldman Sachs does it for us? (see below)</div>
-      <div class="title top">5% Future Development</div>
+      <div class="title top">5% Community Development</div>
       <div class="subtitle no-top">Rocket fuel is pricey.</div>
       <div class="title top">5% Team</div>
       <div class="subtitle no-top">Doing this full-time is hard.</div>
@@ -93,6 +103,9 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+a {
+  color:inherit;
+}
 .sidebyside {
   display:flex;
 }
