@@ -50,6 +50,15 @@
       <div class="mega">Testimonials</div>
       <img :src="`${publicPath}assets/img/omgwtfbbq.png`" style="width:100%;" />
     </div>
+    <div class="wrapper red">
+      <div class="mega">Team</div>
+      <div class="title">Jason Park</div>
+      <div class="subtitle no-top">Economist, does the numbers.</div>
+      <div class="title top">Nikolas Ow-yeong</div>
+      <div class="subtitle no-top">Resident tech guy. Nerd.</div>
+      <div class="title top">Wesley Takahashi</div>
+      <div class="subtitle no-top">Big boss. Calls the shots, very smart guy.</div>
+    </div>
     <div class="wrapper first center">
       <div class="mega center">Roll with us</div>
       <div class="swrapper">
