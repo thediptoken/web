@@ -26,6 +26,18 @@
       </div>
     </div>
     <div class="wrapper red center">
+      <div class="mega">White Paper</div>
+      <div class="title">We got serious.</div>
+      <div class="subtitle no-top">So here it is, our white paper, in a red... box.</div>
+      <a :href="`${publicPath}assets/whitepaper/White Paper.pdf`" target="_blank"><div class="button white">Download our White Paper</div></a>
+    </div>
+    <div class="wrapper">
+      <div class="mega">How can I get the $DIP??</div>
+      <div class="title">That's a lovely question, I'm glad you asked. Everyone wants the $DIP, there's only so much to go around.</div>
+      <div class="subtitle no-top">But fret not! Join our telegram channel now and get access to airdrops, events and much much more!</div>
+      <a href="https://t.me/buythedip_official" target="_blank"><div class="button" style="color:white">Find us on Telegram</div></a>
+    </div>
+    <div class="wrapper red center">
       <div class="mega">How to roll with us</div>
       <div class="title">Step 1. Stonks are dipping!</div>
       <div class="subtitle no-top" >Panic.</div>
@@ -36,12 +48,6 @@
       <div class="title top-big">Step 4. Stonks are rising!</div>
       <div class="subtitle no-top" >Bathe in eternal glory. It's that simple.</div>
       <a href="https://pancakeswap.finance/swap?outputCurrency=0x06b4a9f875e8bb5fa3265e91a4c6c3c49761740e&inputCurrency=" target="_blank"><div class="button white">Buy the $DIP</div></a>
-    </div>
-    <div class="wrapper">
-      <div class="mega">How else can I get the $DIP??</div>
-      <div class="title">That's a lovely question, I'm glad you asked. Everyone wants the $DIP, there's only so much to go around.</div>
-      <div class="subtitle no-top">But fret not! Join our telegram channel now and get access to airdrops, events and much much more!</div>
-      <a href="https://t.me/buythedip_official" target="_blank"><div class="button" style="color:white">Find us on Telegram</div></a>
     </div>
     <div class="wrapper">
       <div class="mega">Tokenomics</div>
